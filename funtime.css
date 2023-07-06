@@ -1,0 +1,20 @@
+
+th,tr{
+    font-size: 20px;
+    font-style: normal;
+    
+}
+body{
+    background:url("cod.jpg");
+    background-size: cover;
+}
+table{
+    margin-top: 108px;
+}
+b{
+    style="color:beige;"
+}
+.wow{
+    width: 20px ;
+    height: 20px ;
+}
